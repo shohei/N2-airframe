@@ -12,6 +12,8 @@
 #### 胴体のみ
 Cd=0.54
 
+![](CFD/Only_bodytube/Cd_0.54.png)
+
 圧力分布
 ![](CFD/Only_bodytube/tube_pressure.png)
 速度分布
@@ -20,7 +22,9 @@ Cd=0.54
 #### フィンを配置したとき
 （※計算条件として軸対称を指定しているので、厳密に3次元的な配置を再現できているわけではない。実際にはもっと抗力係数は低い）
 
-Cd=3.82
+Cd=3.89
+
+![](CFD/With_fin_360deg/Cd_3.89.png)
 
 圧力分布
 ![](CFD/With_fin_360deg/pressure.png)
