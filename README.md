@@ -1,3 +1,3 @@
 # N2 airframe 
 ![](perspective.png)
-![](N-2rocket.png)
+![](N-2rocket.PNG)
