@@ -1,6 +1,6 @@
 # N2 airframe 
-![](perspective.png)
-![](N-2rocket.PNG)
+![](image/perspective.png)
+![](image/N-2rocket.PNG)
 
 ## CFD result
 計算条件
